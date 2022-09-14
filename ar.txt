@@ -1,2 +1,7 @@
 Ceci est une première phrase dans mon fichier ar.txt
-ajouter une phrase
+this is the second sentence inside my ar.txt file.
+this is the thirth sentence inside my ar.txt file.
+this is the fourth sentence inside my ar.txt file.
+this is the fifth sentence inside my ar.txt file.
+this is the sixth sentence inside my ar.txt file.
+so fed up with this bloody 
